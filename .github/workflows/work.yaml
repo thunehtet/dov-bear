@@ -69,7 +69,7 @@ jobs:
                   "type": "section",
                   "text": {
                     "type": "mrkdwn",
-                    "text": "https://${{ secrets.RAILWAY_LINK }}.up.railway.app/"
+                    "text": "https://${{ secrets.RAILWAY }}.up.railway.app/"
                   },
                   "accessory": {
                     "type": "button",
