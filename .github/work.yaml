@@ -3,7 +3,7 @@ name: CICD assignmet
 on:
   push:
     branches:
-      -'release/v*'
+      -'release/v*.*'
 
 jobs:
   build-and-deploy:
