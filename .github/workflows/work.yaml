@@ -49,15 +49,15 @@ jobs:
                   "fields": [
                     {
                       "type": "mrkdwn",
-                      "text": "Name:\nThune Htet Naing"
+                      "text": "Name:Thune Htet Naing"
                     },
                     {
                       "type": "mrkdwn",
-                      "text": "Email:\nE1112926@u.nus.edu"
+                      "text": "Email:E1112926@u.nus.edu"
                     },
                     {
                       "type": "mrkdwn",
-                      "text": "Matriculation:\nA0269543U"
+                      "text": "Matriculation:A0269543U"
                     },
                     {
                       "type": "mrkdwn",
